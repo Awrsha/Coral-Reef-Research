@@ -1,6 +1,14 @@
 # 🌊 Advanced Coral Reef Analysis with SAM2 & COCO Tools
 > An integrated suite for coral reef research combining Meta AI's SAM2 and automated annotation tools
 
+<h2 align="center">
+  <br>
+  <a href="https://github.com/Awrsha"><img src="https://github.com/Awrsha/Coral-Reef-Research/blob/master/output.png" alt="OCR-OUTPUT" height="500" width="1000"></a>
+  <br>
+  <b><h4 align="center">.:: Advanced Coral Reef Analysis with SAM2 & COCO Tools ::.</h4></b>
+  <br>
+</h2>
+
 ## 🔍 System Architecture
 ```mermaid
 graph TD
